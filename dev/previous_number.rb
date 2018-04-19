@@ -1,4 +1,4 @@
 def previous_number(input)
-    input = input - 1
-    return input
+    output = input - 1
+    return output
 end
