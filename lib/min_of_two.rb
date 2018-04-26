@@ -5,5 +5,3 @@ def min_of_two(input1, input2)
     end
     return output
 end
-
-puts min_of_two(5, 10)

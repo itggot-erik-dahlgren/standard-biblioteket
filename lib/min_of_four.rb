@@ -11,5 +11,3 @@ def min_of_four(input1, input2, input3, input4)
     end
     return output
 end
-
-puts min_of_four(-2, -10, 10, 10)
