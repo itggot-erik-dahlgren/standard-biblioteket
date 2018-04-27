@@ -11,5 +11,3 @@
 def last_of(array)
     return array[-1]
 end
-
-puts last_of([10, 123, -10])
